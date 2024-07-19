@@ -1,5 +1,4 @@
 # ATS-Tracker-with-Google-Gemini-Pro
-# ATS Resume Expert
 
 ATS Resume Expert is a Streamlit web application that helps you evaluate and improve your resume by providing insights from expert HR evaluations, technical HR manager insights, and ATS (Applicant Tracking System) evaluations. This project uses Google Gemini API to generate content and provide detailed feedback based on job descriptions and uploaded resumes.
 
