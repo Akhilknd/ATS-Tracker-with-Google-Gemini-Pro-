@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/repositoryname.git
-    cd repositoryname
+    git clone https://github.com/shanmukhasrinivas15/main/ATS-Tracker-with-Google-Gemini-Pro-.git
+    cd ATS Scanner
     ```
 
 2. **Create a virtual environment and activate it:**
@@ -42,6 +42,9 @@ To run this project locally, follow these steps:
     ```sh
     streamlit run ats.py
     ```
+## ATS Tracking System
+![Screenshot 2024-07-19 at 4 11 37 PM](https://github.com/user-attachments/assets/d34edb03-7b96-4425-8529-4040f78e4a20)
+
 
 ## Usage
 
@@ -50,9 +53,17 @@ To run this project locally, follow these steps:
 3. Upload your resume in PDF format.
 4. Click on one of the buttons to get the respective evaluation or insight:
    - **Expert HR Evaluation**
+
+
    - **Technical HR Manager Insight**
+
+
    - **ATS Scanner Evaluation**
+
+
    - **ATS Scanner Skill Highlighting and Resume Rewrite**
+
+
 
 ## Code Explanation
 
